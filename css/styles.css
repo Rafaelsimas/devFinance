@@ -266,12 +266,17 @@ input {
     width: 100%;
 }
 
+.campoData{
+    background: grey;
+}
+
 .input-group {
     margin-top: 0.8rem;
 }
 
 .input-group .help{
     opacity: 0.4;
+    color: red;
 }
 
 .input-group.actions {
